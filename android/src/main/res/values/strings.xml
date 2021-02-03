@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BlueTooth</string>
+    <string name="button_connect">connect</string>
+    <string name="button_start">start</string>
+    <string name="button_bluetoothOn">Bluetooth ON</string>
+    <string name="button_bluetoothoff">Bluetooth Off</string>
+    <string name="button_ShowPairedDevice">show paired devices</string>
+    <string name="button_DiscoverNewDevice">Discover New Devices</string>
+    <string name="Text_Rx">RX:</string>
+    <string name="Text_Status">Status:</string>
+    <string name="Text_ReadBuffer">&lt;Read Buffer></string>
+    <string name="Text_BluetoothStatus">&lt;Bluetooth Status></string>
+    <string name="Toggle_LED">Toggle LED</string>
+</resources>
